@@ -1,0 +1,32 @@
+.checkcenter
+{
+    width: 100%;
+    text-align: right;
+}
+/* .red
+{
+    color: coral;
+    background-color: #020266;
+    transition: all 6s linear;
+} 
+*/
+
+.bgColor1 {
+    color: coral;
+    background-color: #020266;
+     transition: all 6s linear;
+  }
+  
+  .bgColor2 {
+      color: black;
+    background-color: rgba(67, 102, 179, 0.144);
+     transition: all 6s linear;
+  }
+ #submit_btn
+ {
+     background-color: #05471e;
+ }
+  
+      
+
+
