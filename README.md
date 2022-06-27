@@ -1,5 +1,3 @@
-# Book-List-Project-using-JS
-
 # JavaScript
 
 A scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than
@@ -7,4 +5,9 @@ just sit there and display static information for you to look at — displaying 
 scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer
 cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
 
+# Fils
+booklist.html -> Book List Project Using Javascript
 
+# Resources
+
+Javascript(w3schools)
