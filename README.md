@@ -6,7 +6,7 @@ scrolling video jukeboxes, etc. — you can bet that JavaScript is probably invo
 cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
 
 # Files
-booklist.html-> Book List Project Using Javascript
+![booklist.html](booklist.html) -> Book List Project Using Javascript
 
 # Resources
 
