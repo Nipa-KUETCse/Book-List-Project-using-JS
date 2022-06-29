@@ -10,4 +10,4 @@ booklist.html -> Book List Project Using Javascript
 
 # Resources
 
-Javascript [w3schools]( https://www.w3schools.com/js/default.asp )
+Javascript ([w3schools]( https://www.w3schools.com/js/default.asp ))
